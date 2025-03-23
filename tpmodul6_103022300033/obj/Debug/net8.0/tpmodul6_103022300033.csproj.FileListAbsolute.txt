@@ -1,0 +1,15 @@
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\bin\Debug\net8.0\tpmodul6_103022300033.exe
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\bin\Debug\net8.0\tpmodul6_103022300033.deps.json
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\bin\Debug\net8.0\tpmodul6_103022300033.runtimeconfig.json
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\bin\Debug\net8.0\tpmodul6_103022300033.dll
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\bin\Debug\net8.0\tpmodul6_103022300033.pdb
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.sourcelink.json
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.dll
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\refint\tpmodul6_103022300033.dll
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.pdb
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\tpmodul6_103022300033.genruntimeconfig.cache
+C:\Users\ASUS VIVOBOOK\Documents\semester 4\PRAKTIKUM\KPL\tpmodul6_103022300033\tpmodul6_103022300033\obj\Debug\net8.0\ref\tpmodul6_103022300033.dll
